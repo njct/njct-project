@@ -1,0 +1,68 @@
+.body{
+    height: 100%;
+    width: 100%;
+}
+.div_main{
+        background-image:url("FICO-phone-borrowing-and-credit-970x485\ \(1\).jpg");
+        height: 500px;
+        width: 900px;
+        margin-top: 200px;
+
+    }
+.div_line1{
+    position: absolute;
+    display: inline-block;
+}
+.div_line2{
+    padding-top: 150px;
+    
+    height: 200px;
+    width: 300px;
+    margin-left: 20px;
+}
+.div_ico{
+    display: inline-block;
+    position: absolute;
+    margin-top: 5px;
+
+}
+.div_btn{
+position: absolute;
+display: inline-block;
+background-color: red;
+color: white;
+margin-top: -30px;
+margin-left: 30px;
+padding: 3px;
+border-radius: 10px;
+
+}
+
+.div_panel{
+    display: inline-block;
+    position: absolute;
+height: 310px;
+width: 190px;
+/* background-color: rgba(174, 243, 236, 0.418); */
+}
+.div_panel_btn{
+    margin: 8px;
+height: 90px;
+width:180px;
+border: 1px solid rgb(65, 65, 65) ;
+background-color: white;
+}
+.uparrow{
+
+}
+.downarrow{
+
+}
+.div_panel_main{
+    margin-top: 55px;
+    display: inline-block;
+    position: absolute;
+height: 385px;
+width: 190px;
+/* background-color: rgba(192, 122, 94, 0.418); */
+}
